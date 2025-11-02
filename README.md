@@ -288,4 +288,4 @@ Projeto desenvolvido como referência educacional.
 
 ---
 
-**Desenvolvido com ❤️ - Sistema PDV Profissional 2025**
+**Desenvolvido por Clairton Lima - Sistema PDV Profissional 2025**
